@@ -1,0 +1,14 @@
+{
+    "name": "pucpr.autorollcredits.runtime",
+    "rootNamespace": "PUCPR.AutoRollCredits",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
