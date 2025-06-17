@@ -1,4 +1,4 @@
-## [0.0.1] - YYYY-MM-DD
+## [0.0.1] - 2025-06-17
 
 ### Added
 - This CHANGELOG
@@ -6,3 +6,4 @@
 - LICENSE
 - package.json
   - Unity package config
+- Assembly definitions
