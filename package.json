@@ -1,11 +1,14 @@
 {
-    "name": "com.pucpr.autorollcredits",
-    "displayName": "Auto Roll Credits",
-    "description": "",
-    "version": "0.0.1",
-    "unity": "2019.3",
-    "changelogUrl": "",
-    "_upm": {
+  "name": "com.pucpr.autorollcredits",
+  "displayName": "Auto Roll Credits",
+  "description": "",
+  "version": "0.0.1",
+  "unity": "2019.3",
+  "changelogUrl": "",
+  "_upm": {
     "changelog": "New Features:\n\n- feature description"
+  },
+  "author": {
+    "name": "PUCPR"
   }
 }
